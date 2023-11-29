@@ -9,9 +9,9 @@ Bienvenido a mi perfil de GitHub! 👋
 - 🛠️ Skills: Programación Web, Análisis de Datos, Gestión de Proyectos, Docencia y Mentoría
 
 ## Educación
-- Fullstack and Software Developer, 4Geeks Academy (05/2023 – 07/2023)
-- Magister en Informática Médica, Universidad de Chile (03/2016 – 10/2019)
-- Tecnología Médica, Universidad de Concepción (03/2002 – 12/2007)
+- Fullstack and Software Developer, 4Geeks Academy (2023)
+- Magister en Informática Médica, Universidad de Chile (2016 – 2019)
+- Tecnología Médica, Universidad de Concepción (2002 – 2007)
 
 ## Idiomas
 - 🇺🇸 Inglés (Nivel Alto)
@@ -36,6 +36,9 @@ Bienvenido a mi perfil de GitHub! 👋
 - Portafolio: Repositorio de proyectos desarrollados y datos de contacto
 - Guía Pokedex: Aplicación en React para consultar detalles de Pokémon vía Poke API
 
+## Lenguajes Más Utilizados
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpgb-hub&layout=compact)
+
 ## Mis Estadísticas de GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=jpgb-hub&show_icons=true)
 
@@ -45,6 +48,7 @@ Bienvenido a mi perfil de GitHub! 👋
 - 🔗 LinkedIn: [Juan Guerrero Bonnet](https://www.linkedin.com/in/juan-guerrero-bonnet/)
 
 ¡Gracias por visitar mi perfil! No dudes en conectarte conmigo. 🌟
+
 
 
 <!--
