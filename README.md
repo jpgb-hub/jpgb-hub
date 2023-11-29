@@ -1,10 +1,12 @@
 # Hola, soy Juan Guerrero Bonnet
 
-Bienvenido a mi perfil de GitHub! 👋
+Bienvenidas/os a mi perfil de GitHub! 👋
 
 ## Sobre Mí
+
+- 💼 Fullstack Developer
 - 🎓 Magister en Informática Médica de la Universidad de Chile
-- 💼 Fullstack Developer especializado en crear aplicaciones centradas en el usuario
+- 🧪 Tecnólogo Médico
 - 🌱 Interesado en Programación Web y Transformación Digital
 - 🛠️ Skills: Programación Web, Análisis de Datos, Gestión de Proyectos, Docencia y Mentoría
 
