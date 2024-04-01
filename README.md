@@ -26,6 +26,11 @@ Bienvenidas/os a mi perfil de GitHub! 👋
 
 
 ## Experiencia Profesional
+
+- Analista de Proyectos Servicio de Salud Metropolitano Sur
+  - Levantamiento de Procesos sanitarios
+  - Modelamiento de Procesos sanitarios bajo nomenclatura BMP
+  - Instalación local de HAPI FHIR  
 - Especialista de Datos en CIBM- Universidad del Desarrollo
   - Desarrollo de datalake house y manejo de bases de datos abiertas
   - Configuración de tablets para recolección de datos en terreno
