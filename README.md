@@ -11,6 +11,7 @@ Bienvenidas/os a mi perfil de GitHub! 👋
 - 🛠️ Skills: Programación Web, Análisis de Datos, Gestión de Proyectos, Docencia y Mentoría
 
 ## Educación
+-Ingeniería en Computación e Informática, Universidad Andrés Bello (2025)
 - Fullstack and Software Developer, 4Geeks Academy (2023)
 - Magister en Informática Médica, Universidad de Chile (2016 – 2019)
 - Tecnología Médica, Universidad de Concepción (2002 – 2007)
